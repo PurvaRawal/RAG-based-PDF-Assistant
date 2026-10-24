@@ -1,0 +1,14 @@
+"""
+Utility modules for the AI Document Intelligence Assistant.
+
+This package contains modules for:
+- PDF processing
+- Text chunking
+- Embeddings
+- FAISS vector search
+- RAG-based question answering
+- Document summarization
+- Quiz generation
+"""
+.env
+.env.*
