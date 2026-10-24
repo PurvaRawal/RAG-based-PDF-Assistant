@@ -7,7 +7,7 @@
 ![Screenshot 1](screenshots/Screenshot%202026-09-13%20232523.png)
 
 ### 2. Screenshot 2
-![Screenshot 2](screenshots/Screenshot%202026-09-13%20225511.png)
+![Screenshot 2](screenshots/Screenshot%202026-09-13%20225111.png)
 
 ### 3. Screenshot 3
 ![Screenshot 3](screenshots/Screenshot%202026-09-13%20224931.png)
