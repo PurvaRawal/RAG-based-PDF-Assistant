@@ -1,6 +1,23 @@
 # 📄 PDF Query Application
 
-![Screenshot (237)](https://github.com/user-attachments/assets/0bc24d0c-a334-44e9-8679-8743f778ba4f)
+
+## 📸 Project Screenshots
+
+### 1. Screenshot 1
+![Screenshot 1](screenshots/Screenshot%202026-09-13%20232523.png)
+
+### 2. Screenshot 2
+![Screenshot 2](screenshots/Screenshot%202026-09-13%20225511.png)
+
+### 3. Screenshot 3
+![Screenshot 3](screenshots/Screenshot%202026-09-13%20224931.png)
+
+### 4. Screenshot 4
+![Screenshot 4](screenshots/Screenshot%202026-09-13%20224830.png)
+
+### 5. Screenshot 5
+![Screenshot 5](screenshots/Screenshot%202026-09-13%20224813.png)
+
 
 This Streamlit application allows users to upload a PDF document and ask questions about its content using an AI model. The application utilizes the Groq API and the LLaMA model from Hugging Face to 
 provide answers based on the extracted text from the PDF.
@@ -101,15 +118,6 @@ torch
 transformers
 ```
 
-## 🖼️ Demo
-
-Try the demo of this app on Hugging Face Spaces to see it in action!
-
-- **Link to Hugging Face Space**: [Demo on Hugging Face](https://huggingface.co/spaces/mohAhmad/RAGMODEL)
-
-## 📃 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🙌 Contributing
 
@@ -122,4 +130,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - [Hugging Face](https://huggingface.co) for hosting models and providing access to state-of-the-art NLP models.
 
 
-Made with ❤️ by [Ahmad Raza](https://www.linkedin.com/in/ahmadkhushi).
